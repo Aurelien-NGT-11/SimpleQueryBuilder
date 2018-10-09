@@ -1,0 +1,15 @@
+{
+    "name": "ngt/simple-query-builder",
+    "description": "A query builder for mysql database",
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NGT",
+            "email": "43797654+NGT-11@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
